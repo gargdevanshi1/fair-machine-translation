@@ -82,4 +82,4 @@ By promoting gender inclusivity in translation, this work highlights the **ethic
 
 ## 📝 License
 
-This project is intended for research and educational use. Licensed under MIT.
+This project is intended for research and educational use.
